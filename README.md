@@ -19,7 +19,7 @@ Trabalho de Técnicas de programação - Nathan da Motta Truyts - Desenvolviment
 Desenvolver um sistema do tipo CLI (command-line interface) com o objetivo suprir as necessidades de uma empresa fícticia do ramo de estética.
 
 # Diagrama de classe
-![diagrama-classe](https://github.com/)
+![diagrama-de-classe](https://github.com/Nathtruyts/typescript-crud-dsm/blob/main/Imagens/Diagrama%20de%20classe.png)
 
 # Entregas 
 
