@@ -35,9 +35,3 @@ Desenvolver um sistema do tipo CLI (command-line interface) com o objetivo supri
 # Pastas dos Arquivos
 /Src: Arquivos pertinentes ao trabalho 
 /imagens: Arquivos de imagens do readme
-
-
-# obs do autor:
-Algumas vezes ele acaba não abrindo por falta de um script do node, acho em minha máquina ele ta reconhecendo como react junto, não tenho certeza disso. Peço humildes desculpas pelo baixo nível aqui apresentado, mas foi o que tive tempo de fazer por conta de problemas pessoais.
-
-
